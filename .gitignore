@@ -1,0 +1,20 @@
+# build files
+x64/
+Debug/
+Release/
+build/
+
+# visual studio
+.vs/
+*.vcxproj.user
+
+# compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# temp
+*.tlog
+*.idb
